@@ -1,7 +1,7 @@
 # WeatherApp
 Weather App using OpenWeatherAPI
-Link: https://dhavalmarudsm.github.io/WeatherApp/
+Link: https://yummyamee.github.io/weatherfinder/
 
-This Weather App is used to get information about the weather of any city.
+The Weather Finder is a web application used to find weather of any city or region.
 
 I have used Open Weather API: https://openweathermap.org/api
